@@ -58,7 +58,7 @@ h1{
 #txt_formatting {
   padding-left: 20px;
   padding-right: 20px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 #imgformat_profile_pic img {
