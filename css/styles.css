@@ -1,8 +1,57 @@
-img {
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(224, 224, 224);
+}
+#emailFormat {
+ float: right;
+}
+
+.gridRow2 {
+  height: 100px;
+  margin: auto;
+}
+
+h1{
+  text-transform: uppercase;
+  margin: 100px 0px 100px 0px;
+}
+#txt_formatting {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+#imgformat_status img {
+  border-radius: 300px;
+  float: right;
+  width: 20%;
+  height: auto;
+  /* padding-top:5%; */
+}
+
+#imgformat_profile_pic img {
   border-radius: 200px;
+  float: right;
+  width: 100%;
+  height: auto;
+  /* padding-top:5%; */
 }
 
 .smallFont {
   display:block;
   font-size: 10px;
+}
+
+#para_format {
+  margin-bottom: 0px;
+}
+
+#footer1 {
+  background-color: rgb(138, 138, 138);
+  font-size: 24px;
+}
+
+#footer2 {
+  background-color: rgb(177, 175, 175);
+  font-size: 24px;
 }
