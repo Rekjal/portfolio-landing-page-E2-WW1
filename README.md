@@ -13,7 +13,7 @@ This website's purpose is to showcase the professional bio and web design work o
 ## Setup/Installation Requirements
 1. Clone this repository.
 2. To run program open **_index.html_** from browser
-3. Page is also hosted on [Github](https://rekjal.github.io/BeepBoop/https://rekjal.github.io/portfolio-landing-page-E2-WW1)
+3. Page is also hosted on [Github](https://rekjal.github.io/portfolio-landing-page-E2-WW1)
 
 ## Known Bugs
 
